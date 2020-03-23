@@ -1,0 +1,2 @@
+rootProject.name='Toeic 600'
+include ':app'
