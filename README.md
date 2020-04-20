@@ -13,17 +13,19 @@
 
 4. Database Model Description:
 A table with 5 columns <br>
+
 `id : INTEGER` - contain the unique id of each note 
-<br>
+
 `title : TEXT` - contain the title of note
-<br>
+
 `content : TEXT` - contain the content of the note
-<br>
+
 `tag : TEXT` - tag of the note, all available tags are HOME, FAMILY, WORK, DEFAULT. Each note has a tag which define background color for the note. Do not use any tag else.
-<br>
+
 `showtime : DATETIME` - reminder the user at this time. 
-<br>
-Create database by execute this SQL statement <Br>
+
+Create database by execute this SQL statement
+
 ```sql
 DROP TABLE IF EXISTS "todo";
 CREATE TABLE "main"."todo" (
