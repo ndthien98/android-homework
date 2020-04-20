@@ -37,11 +37,13 @@ CREATE TABLE "main"."todo" (
   PRIMARY KEY ("id")
 );
 ```
-<br>
+
 In case you are not familiar with SQLite, you can use this file with executed table 
-<br>
-![todo.db](https://github.com/ndthien98/android-homework/blob/master/todo.db) 
-<br>
+
+[todo.db](https://github.com/ndthien98/android-homework/blob/master/todo.db) 
+
+
+
 5. Color <br>
 Each tag come with a tag color
 
