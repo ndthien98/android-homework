@@ -1,4 +1,4 @@
-package thiennd.toeic600;
+package thiennd.toeic600.database;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;

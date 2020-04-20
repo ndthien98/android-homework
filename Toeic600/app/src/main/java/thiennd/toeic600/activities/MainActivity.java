@@ -1,8 +1,10 @@
-package thiennd.toeic600;
+package thiennd.toeic600.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import thiennd.toeic600.R;
 
 public class MainActivity extends AppCompatActivity {
 
