@@ -9,6 +9,7 @@
 - Delete note created.
 
 3. UI Sample 
+<br>
 ![UI](./todo-ui.png)
 
 4. Database Model Description:
